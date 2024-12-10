@@ -1,0 +1,21 @@
+Repair,TV,ROY,cebui,ONLINE PAYMENT,paypal,aosdhashdasiahda,paid,Repairing/Maintaining
+Repair,TV,JOR,WWWWW,COD,cash,6346346346346,not paid,Picked Up
+Repair,TV,dadsadasdasdsa,hreheherhreherher,ONLINE PAYMENT,paypal,,paid,Shipped
+Repair,TV,yuktk,eyeyer,ONLINE PAYMENT,gcash,34534534534345,paid,Picked Up
+Repair,TV,,, ,,, ,Picked Up
+Repair,TV,erterterterert,rwerwerwerwe,ONLINE PAYMENT,maya,3453454353534,paid,Picked Up
+Repair,TV,4u6u5u5r,346346363gregegerge,COD,cash,yukykyukyukyerger,not paid,pending
+Repair,TV,ururyryrtyrt,rfwewewtwewet,ONLINE PAYMENT,maya,64363634634,paid,pending
+Repair,Phone,ice,water,ONLINE PAYMENT,paypal,ghjghjghjggjhgjg,paid,pending
+Repair,Phone,yeyrey,erertetreter,ONLINE PAYMENT,paypal,7fghfghfghf,paid,pending
+Repair,Computer,rtyryrtyrt,sdffdfsdfddf,ONLINE PAYMENT,paypal,dffdffdfsfdffdfdffssdfsdfsd,paid,pending
+Repair,Computer,KALOY,RQWRQWRQ,ONLINE PAYMENT,maya,636434634643,paid,pending
+Maintenance,Computer,twetwtwe,dcqdqcqw4e,ONLINE PAYMENT,paypal,fghfghwerdfsfsd,paid,pending
+Maintenance,Phone,ROyyy,54353453453.34059340590,COD,cash,345345434.23423904823,not paid,pending
+Maintenance,Computer,hfgjfgjfg,erwrwerwe,ONLINE PAYMENT,maya,64363463463634,paid,pending
+Maintenance,TV,yeryeyeye,rewrwrwe,ONLINE PAYMENT,paypal,fghbfghfghfghfg,paid,pending
+Maintenance,LapTop,ewrterterterer,ssdadadads,ONLINE PAYMENT,gcash,4564564564645,paid,pending
+Maintenance,Computer,asdasda,ereterte,COD,cash,gdfgdfgdfgdfdgddfgdf,not paid,pending
+Repair,Computer,ASHTON SALAZAR,DAVAO,ONLINE PAYMENT,gcash,012345,paid,pending
+Repair,Computer,SIBUYAS DAHONAN,ceby,ONLINE PAYMENT,paypal,sibuyas@gmail.com,paid,pending
+Maintenance,Computer,PABLO ALAS,NYC,COD,cash,123456789,not paid,pending
